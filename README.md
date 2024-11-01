@@ -2,11 +2,11 @@
 
 🔧 Tech Stack:
 
-Languages: C#, JavaScript, SQL
-Frameworks: .NET 8.0, ASP.NET MVC, Node.js
-Databases: SQL Server
-Tools: Visual Studio, Git, GitHub
+Languages: Java, JavaScript, SQL
+Frameworks: Springboot, Node.js, Express.js
+Databases: MySQL, MongoDB
+Tools: Visual Studio, Git, GitHub, VS Code, Postman
 💡 Currently:
 
-Developing backend systems using Node.js and .NET
+Developing backend systems using Node.js and Springboot
 🌱 Passionate about learning new technologies and delivering reliable backend solutions. Let's connect and collaborate on creating powerful systems!
