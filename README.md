@@ -5,7 +5,7 @@
 Languages: Java, JavaScript, SQL
 Frameworks: Springboot, Node.js, Express.js
 Databases: MySQL, MongoDB
-Tools: Visual Studio, Git, GitHub, VS Code, Postman
+Tools: Visual Studio, Git, GitHub, VS Code, Postman;
 💡 Currently:
 
 Developing backend systems using Node.js and Springboot
